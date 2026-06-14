@@ -1,18 +1,21 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{{ .Title }}</title>
 
+    <link rel="stylesheet" href="/css/navbar.css">
     <link rel="stylesheet" href="/css/style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+    <title>{{ .Title }}</title>
 </head>
+
 <body>
 
-    {{ readFile "common/navbar.html" | safeHTML }}
+    {{ partial "navbar.html" . }}
 
-    <main class="container">
-        {{ block "main" . }}{{ end }}
-    </main>
-
+    {{ block "main" . }}{{ end }}
 </body>
 </html>

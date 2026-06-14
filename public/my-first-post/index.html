@@ -1,11 +1,17 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
-    <title>My First Post</title>
 
+    <link rel="stylesheet" href="/css/navbar.css">
     <link rel="stylesheet" href="/css/style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+    <title>My First Post</title>
 </head>
+
 <body>
 
     <head>
@@ -21,12 +27,12 @@
 </head>
 
 
-<!-- Navbar -->
+
 <nav class="sticky top-0 z-50 border-b">
     <div class="max-w-6xl mx-auto px-6 flex items-center justify-between h-14">
         <span class="font-minecraft text-sm">APB</span>
 
-        <!-- Desktop links -->
+        
         <div class="hidden md:flex gap-6 text-sm items-center">
             <a href="#skills" class="hover:underline">Skills</a>
             <a href="#featured" class="hover:underline">Projects</a>
@@ -37,7 +43,7 @@
             </button>
         </div>
 
-        <!-- Mobile: hamburger + toggle -->
+        
         <div class="md:hidden flex items-center gap-3">
             <button id="theme-toggle-mobile" aria-label="Toggle dark/light mode"
                 style="display:flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:6px;border:1px solid var(--border);background:transparent;cursor:pointer;color:var(--text);font-size:15px;">
@@ -52,7 +58,7 @@
         </div>
     </div>
 
-    <!-- Mobile dropdown -->
+    
     <div id="mobile-menu" class="hidden md:hidden border-t">
         <div class="max-w-6xl mx-auto px-6 py-3 flex flex-col gap-3 text-sm">
             <a href="#skills" onclick="document.getElementById('mobile-menu').classList.add('hidden')"
@@ -88,7 +94,7 @@
             syncIcons(theme);
         }
 
-        // Wire up toggles after DOM is ready
+        
         document.addEventListener('DOMContentLoaded', function () {
             syncIcons(theme);
 
@@ -101,7 +107,7 @@
             document.getElementById('theme-toggle-mobile').addEventListener('click', toggle);
         });
 
-        // Follow OS changes only if user hasn't set a manual preference
+        
         window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {
             if (!localStorage.getItem('theme')) {
                 applyTheme(e.matches ? 'dark' : 'light');
@@ -110,19 +116,34 @@
     })();
 </script>
 
-    <main class="container">
-        
-<article class="post-content">
-    <h1>My First Post</h1>
+    
 
-    <p>14 Jun 2026</p>
+<main class="blog-post-layout">
 
-    <p>Hello world.</p>
+    <aside class="toc-sidebar">
+        <nav id="TableOfContents"></nav>
+    </aside>
+
+    <article class="blog-post">
+
+        <header class="post-header">
+            <h1>My First Post</h1>
+
+            <div class="post-meta">
+                Jun 14, 2026
+            </div>
+        </header>
+
+        <div class="post-content">
+            <p>Hello world.</p>
 <p>This is my first Hugo blog.</p>
 
-</article>
+        </div>
 
-    </main>
+    </article>
+
+</main>
+
 
 </body>
 </html>
