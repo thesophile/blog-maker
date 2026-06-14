@@ -62,18 +62,23 @@ Similarly, Mustafa Kemal Atatürk, strongly supported separating religion from g
 
 Under Atatürk, Turkey removed Islam as the state religion, replaced many religious legal structures with secular civil law, and made secularism (laiklik) a core principle of the republic. His goal was that laws should be based on reason, science, and the needs of society rather than religious doctrine.
 
-
+Looking at today's political circumstances of India, our leaders could learn a few things from him.
 
 So, to summarize:
 
     if you want to have an emotional understanding of the Universe, seek God, if you want a truthful understanding, seek science.
 
-Later amigo
+Later amigo    
 
-    Refer to Art, Literature and Meaning ↩︎
 
-    This got Einstein the Nobel Prize in Physics, Not the Theory of relativity. ↩︎
 
-    These myths does not need to be just god. Nations, money, human rights, corporations, and laws are all shared myths that we all believe, in the sense that it doesn’t exist outside our collective imagination. Read Sapiens, A brief History of Humankind by Yuval Noah Harari. ↩︎
+
+
+
+Refer to Art, Literature and Meaning ↩︎
+
+This got Einstein the Nobel Prize in Physics, Not the Theory of relativity. ↩︎
+
+These myths does not need to be just god. Nations, money, human rights, corporations, and laws are all shared myths that we all believe, in the sense that it doesn’t exist outside our collective imagination. Read Sapiens, A brief History of Humankind by Yuval Noah Harari. ↩︎
 
 
