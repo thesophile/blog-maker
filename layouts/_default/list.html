@@ -26,8 +26,9 @@
                 {{ .Date.Format "Jan 2, 2006" }}
             </p>
 
+
             <p class="blog-summary">
-                {{ .Summary }}
+                {{ truncate 180 .Summary }}
             </p>
 
         </article>
