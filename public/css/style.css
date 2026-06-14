@@ -1,0 +1,19 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+}
+
+.post-list article {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #333;
+}
+
+.post-content {
+    line-height: 1.8;
+}
+
+.post-content img {
+    max-width: 100%;
+}
