@@ -68,12 +68,13 @@ So, to summarize:
 
     if you want to have an emotional understanding of the Universe, seek God, if you want a truthful understanding, seek science.
 
+<br>
+
 Later amigo    
 
 
-
-
-
+<div style="height: 3rem;"></div>
+<hr>
 
 Refer to Art, Literature and Meaning ↩︎
 

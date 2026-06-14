@@ -5,3 +5,9 @@ title = "Blogs of Abhinav Babu"
 
 [permalinks]
 posts = "/:slug/"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
