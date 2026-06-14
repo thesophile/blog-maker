@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+
+baseURL = "https://abhinavbabu.in/blog/"
+languageCode = "en-us"
+title = "Blogs of Abhinav Babu"
+
+[permalinks]
+posts = "/:slug/"
