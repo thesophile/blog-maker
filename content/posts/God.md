@@ -54,7 +54,14 @@ Even if you believe in any Religion, I think it shouldn’t be mixed with Legist
 
 Thomas Jefferson, one of the Founding Fathers of the United States, believed that religion and government should remain separate. He wrote of a wall of separation between church and state, despite being personally religious.
 
-Similarly, Mustafa Kemal Atatürk, he strongly supported separating religion from government and law.
+Similarly, Mustafa Kemal Atatürk, strongly supported separating religion from government and law. He argued that faith should be a personal matter and not something imposed by the state. 
+
+> We just try not to mix religious affairs with state and nation affairs.
+>
+> ..those who exploit religion for power deceive the people.
+
+Under Atatürk, Turkey removed Islam as the state religion, replaced many religious legal structures with secular civil law, and made secularism (laiklik) a core principle of the republic. His goal was that laws should be based on reason, science, and the needs of society rather than religious doctrine.
+
 
 
 So, to summarize:
