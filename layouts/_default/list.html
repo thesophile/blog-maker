@@ -14,24 +14,21 @@
     <section class="blog-list">
 
         {{ range .Site.RegularPages }}
-        <article class="blog-preview">
+        <a href="{{ .RelPermalink }}" class="blog-preview-link">
+            <article class="blog-preview">
 
-            <h2>
-                <a href="{{ .RelPermalink }}">
-                    {{ .Title }}
-                </a>
-            </h2>
+                <h2>{{ .Title }}</h2>
 
-            <p class="blog-meta">
-                {{ .Date.Format "Jan 2, 2006" }}
-            </p>
+                <p class="blog-meta">
+                    {{ .Date.Format "Jan 2, 2006" }}
+                </p>
 
+                <p class="blog-summary">
+                    {{ truncate 180 .Summary }}
+                </p>
 
-            <p class="blog-summary">
-                {{ truncate 180 .Summary }}
-            </p>
-
-        </article>
+            </article>
+        </a>
         {{ end }}
 
     </section>

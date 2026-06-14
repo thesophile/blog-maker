@@ -141,3 +141,24 @@
         max-width: 100%;
     }
 }
+
+
+
+.blog-preview-link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+.blog-preview {
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    transition: transform 0.15s ease;
+    cursor: pointer;
+}
+
+.blog-preview:hover {
+    transform: translateY(-2px);
+}
