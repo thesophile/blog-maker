@@ -10,9 +10,7 @@
 
     {{ readFile "common/navbar.html" | safeHTML }}
 
-    <p>Helo</p>
-
-    <main>
+    <main class="container">
         {{ block "main" . }}{{ end }}
     </main>
 
