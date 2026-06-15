@@ -66,6 +66,11 @@
     position: sticky;
     top: 80px;
     height: fit-content;
+    background: none;
+}
+
+.toc-sidebar nav {
+    background: none;
 }
 
 .toc-sidebar nav ul {

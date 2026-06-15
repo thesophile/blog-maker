@@ -4,7 +4,7 @@ draft = true
 title = 'On God and Religion'
 +++
 
-
+## introduction
 “GOD” has a lot of meanings. For some it is an omniscient, omnipotent being with personal characteristics like intelligence, kindness and intention, That created the Universe. For others, it is an invisible force all around us, but they still mean that it has some humanlike characters, like intention, Strength, Beauty and intelligence, some think this “force” can listen to our thoughts and prayers and change the mental and physical realms to help or punish you. On the extreme, some believe God is literally a human living on earth that they can worship.
 
 On the other end, thinkers like spinoza[^spinoza], identifies God with Nature (Deus sive Natura). God is not a person who exists separately from the world and then decides to create it. Instead, God/Nature is the one infinite substance that necessarily exists. Everything else (people, stars, trees, thoughts) are “modes” or expressions of that substance. The universe flows from God’s nature with necessity, just as the properties of a triangle follow from its definition.
@@ -17,6 +17,7 @@ In a famous 1929 telegram, Einstein wrote that he believed in:
 
 But if their God is the same thing as nature, why do they call it such instead of simply “Nature”?
 
+## The meaning of God
 Because of linguistics. Words are not just objective descriptions of things, it carries context and emotions.[^art]
 God is described as the Great, powerful, infinite thing, that is everywhere and we are all part of, and it invokes that feeling of awe. It provides us, punishes us and controls everything. We are a tiny speck, nothing compared to it.
 Now, what is Universe? It is a Great, powerful, infinite thing, that is everywhere and we are all part of, and it invokes that feeling of awe. It provides us, punishes us and controls everything. We are a tiny speck, nothing compared to it.
@@ -37,6 +38,7 @@ There are very inntelligent flat earthers, antivaxxers, theists and so on. We ar
 
 Like religions and spirituality, the scientific method is another way to understand the universe, which is based on finding truth, not beliefs. here hearts are ment to be broken .It doesn’t care what you believe, what you think or anything. It just spits truth in your face. Take it our Leave it. One might be happier with religion- Cause ignorance is bliss. People want to be happy. not right.
 
+## Religion
 The problem is when people mix them up. Like some try to find Science in religion - “Ganeshas head was transplanted with plastic surgery”. They are trying to find some truth in what they believe so that they can justify to themselves and others that what they believe is true. Today scientific knowledge is accepted as truth so they use it to “prove” that their religion is True. But the point they miss is that it doesn’t need to be true for you to believe in. Its better to believe that some magical force transplanted his head with an elephant than to seek a pseudoscientific explanation and making yourselves a fool. Our ancient brain is still trying to convince others (and in the process ourselves) our own beliefs.
 I hold no objection if someone believes in anything. One can believe that the earth is flat, all our experience is a dream, or that aliens exists. These do no harm as long as you know that your belief is not equal to truth. And if it is not truth, you dont have to make everyone believe it, I mean you can share your belief and others can accept it or critisize it. But it becomes harmful when you try to impose it on others or do real World actions based on this.
 
@@ -64,6 +66,7 @@ Under Atatürk, Turkey removed Islam as the state religion, replaced many religi
 
 Looking at today's political circumstances of India, our leaders could learn a few things from him.
 
+## Summary
 So, to summarize:
 
 if you want to have an emotional understanding of the Universe, seek God, if you want a truthful understanding, seek science.
