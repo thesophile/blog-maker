@@ -164,10 +164,39 @@
 }
 
 .post-content blockquote {
-    background-color: --var(--bg-card);
+    /* background-color: var(--bg-card); */
     border-left: 4px solid #888;
     padding-left: 1rem;
     margin: 1rem 0;
     font-style: italic;
     opacity: 0.9;
+}
+
+.post-content ol {
+    list-style: decimal;
+    padding-left: 2rem;
+}
+
+.post-content ul {
+    list-style: disc;
+    padding-left: 2rem;
+}
+
+.post-content sup a {
+    color: #3b82f6;
+    text-decoration: none;
+}
+
+.post-content sup a:hover {
+    text-decoration: underline;
+}
+
+
+.post-content .footnotes::before {
+    content: "Notes";
+    display: block;
+    font-family: 'Press Start 2P';
+    font-size: 0.8rem;
+    margin: 3rem 0 2rem 0;
+    color: var(--text-subtle);
 }

@@ -26,7 +26,7 @@ But thinking of it, why are these words so similar, like I just mentioned a doze
 
 God is the word that early people used to describe the universe. They would see these powerful entities that can give or take life - like the Sun, sea, Rain etc. And being this obsessive pattern seekers that we are, we associated our actions with these random outcomes. Ofcourse, sacrificing your infant is the only way to get rain. And after they did it, rain would fall, which confirms their “theory”. In the other hand, if the rain didn’t fell, they would say “boo your heart is unpure, lets sacrifice another baby”. Until eventually the rain falls.
 I mean, evolution really set up us for this. We, for the love of God, only try to prove the thing we already believe in, if we see anything else, we discard it. I mean, we are social creatures, the purpose is to convince others. The brain doesnt care about truth, it cares about survival; if you can’t justify yourself to your tribe, then it means death, we simply cannot survive in the wild alone. On the other hand, if we cared about the truth, the best approach is to find counter examples, think of situations where your theory would fail and just test it there. That is exactly how science progresses. The first Proof of photoelectric effect comes from Robert Millikan Who was determined to prove Einstein wrong.[^einstein] The point is both science and religions have the same goal, to learn and describe nature, they do it in different ways. Religion uses the traditional “confirm what you know” method,[^prove], it makes up things to explain what we see, and confirms that it works, when it works. The emphasis is on belief, not truth. Religion tells you what to believe, and it helps you to believe that thing. This might ne incredibly useful in early social circles; if you tell everyone what to believe, everyone can work together being under the same rule. They will fear the authority, and obeys them. In tribes, they usually followed and obeyed the tribal leader not because he was the strongest or most athletic, but because their customs, beliefs, and need for social cohesion encouraged them to follow a recognized leader. That leader was often someone with greater experience, knowledge, or wisdom. This was beneficial for survival in the wild.
-The traditions and rules were communicated via stoies under the night fire. As Yuval noha Harrari says They believed in the same myth which brought them together.3
+The traditions and rules were communicated via stoies under the night fire. As Yuval noha Harrari says They believed in the same myth which brought them together.[^harrari]
 
 > Humans can cooperate flexibly in huge numbers because we believe in shared stories.
 
@@ -73,13 +73,11 @@ if you want to have an emotional understanding of the Universe, seek God, if you
 Later amigo    
 
 
-<div style="height: 3rem;"></div>
-<hr>
 
 [^art]: Refer to Art, Literature and Meaning.
 
 [^einstein]: This got Einstein the Nobel Prize in Physics for explaining the photoelectric effect.
 
-These myths does not need to be just god. Nations, money, human rights, corporations, and laws are all shared myths that we all believe, in the sense that it doesn’t exist outside our collective imagination. Read Sapiens, A brief History of Humankind by Yuval Noah Harari. ↩︎
+[^harrari]: These myths does not need to be just god. Nations, money, human rights, corporations, and laws are all shared myths that we all believe, in the sense that it doesn’t exist outside our collective imagination. Read Sapiens, A brief History of Humankind by Yuval Noah Harari.
 
 
