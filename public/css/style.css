@@ -197,6 +197,10 @@
     display: block;
     font-family: 'Press Start 2P';
     font-size: 0.8rem;
-    margin: 3rem 0 2rem 0;
+    margin: 3rem 0 0.5rem 0;
     color: var(--text-subtle);
 }
+
+/* .post-content .footnotes hr {
+    display: none !important;
+} */

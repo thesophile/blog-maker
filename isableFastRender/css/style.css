@@ -190,3 +190,18 @@
 .post-content sup a:hover {
     text-decoration: underline;
 }
+
+
+.post-content .footnotes::before {
+    content: "Notes";
+    display: block;
+    font-family: 'Press Start 2P';
+    font-size: 0.8rem;
+    margin: 3rem 0 0.5rem 0;
+    color: var(--text-subtle);
+}
+
+.post-content .footnotes::before {
+    border: 0 !important;
+    box-shadow: none !important;
+}
