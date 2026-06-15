@@ -201,6 +201,7 @@
     color: var(--text-subtle);
 }
 
-/* .post-content .footnotes hr {
-    display: none !important;
-} */
+.post-content .footnotes hr {
+    opacity: 0.5;
+    padding-bottom: 2rem;
+}
