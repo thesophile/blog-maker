@@ -13,11 +13,11 @@ This was the kind of God Einstein was talking about. Although he rejected the id
 
 In a famous 1929 telegram, Einstein wrote that he believed in:
 
-    “Spinoza’s God who reveals himself in the lawful harmony of what exists…”
+> “Spinoza’s God who reveals himself in the lawful harmony of what exists…”
 
 But if their God is the same thing as nature, why do they call it such instead of simply “Nature”?
 
-Because of linguistics. Words are not just objective descriptions of things, it carries context and emotions.1
+Because of linguistics. Words are not just objective descriptions of things, it carries context and emotions.[^art]
 God is described as the Great, powerful, infinite thing, that is everywhere and we are all part of, and it invokes that feeling of awe. It provides us, punishes us and controls everything. We are a tiny speck, nothing compared to it.
 Now, what is Universe? It is a Great, powerful, infinite thing, that is everywhere and we are all part of, and it invokes that feeling of awe. It provides us, punishes us and controls everything. We are a tiny speck, nothing compared to it.
 The details are very different, but the instrinsic emotional meaning is almost the same in many contexts. A person who have studied the Universe, has seen the vastness, the complexity and experienced the awe, might use the word “God” to describe that emotional weight. Then any people who have context on God, can immediately understand what they are talking about.
@@ -25,10 +25,10 @@ The details are very different, but the instrinsic emotional meaning is almost t
 But thinking of it, why are these words so similar, like I just mentioned a dozen things that are common to both. Actually it is not that surprising, cause they are the same word used in different framework.
 
 God is the word that early people used to describe the universe. They would see these powerful entities that can give or take life - like the Sun, sea, Rain etc. And being this obsessive pattern seekers that we are, we associated our actions with these random outcomes. Ofcourse, sacrificing your infant is the only way to get rain. And after they did it, rain would fall, which confirms their “theory”. In the other hand, if the rain didn’t fell, they would say “boo your heart is unpure, lets sacrifice another baby”. Until eventually the rain falls.
-I mean, evolution really set up us for this. We, for the love of God, only try to prove the thing we already believe in, if we see anything else, we discard it. I mean, we are social creatures, the purpose is to convince others. The brain doesnt care about truth, it cares about survival; if you can’t justify yourself to your tribe, then it means death, we simply cannot survive in the wild alone. On the other hand, if we cared about the truth, the best approach is to find counter examples, think of situations where your theory would fail and just test it there. That is exactly how science progresses. The first Proof of photoelectric effect comes from Robert Millikan Who was determined to prove Einstein wrong.2 The point is both science and religions have the same goal, to learn and describe nature, they do it in different ways. Religion uses the traditional “confirm what you know” method,[^prove], it makes up things to explain what we see, and confirms that it works, when it works. The emphasis is on belief, not truth. Religion tells you what to believe, and it helps you to believe that thing. This might ne incredibly useful in early social circles; if you tell everyone what to believe, everyone can work together being under the same rule. They will fear the authority, and obeys them. In tribes, they usually followed and obeyed the tribal leader not because he was the strongest or most athletic, but because their customs, beliefs, and need for social cohesion encouraged them to follow a recognized leader. That leader was often someone with greater experience, knowledge, or wisdom. This was beneficial for survival in the wild.
+I mean, evolution really set up us for this. We, for the love of God, only try to prove the thing we already believe in, if we see anything else, we discard it. I mean, we are social creatures, the purpose is to convince others. The brain doesnt care about truth, it cares about survival; if you can’t justify yourself to your tribe, then it means death, we simply cannot survive in the wild alone. On the other hand, if we cared about the truth, the best approach is to find counter examples, think of situations where your theory would fail and just test it there. That is exactly how science progresses. The first Proof of photoelectric effect comes from Robert Millikan Who was determined to prove Einstein wrong.[^einstein] The point is both science and religions have the same goal, to learn and describe nature, they do it in different ways. Religion uses the traditional “confirm what you know” method,[^prove], it makes up things to explain what we see, and confirms that it works, when it works. The emphasis is on belief, not truth. Religion tells you what to believe, and it helps you to believe that thing. This might ne incredibly useful in early social circles; if you tell everyone what to believe, everyone can work together being under the same rule. They will fear the authority, and obeys them. In tribes, they usually followed and obeyed the tribal leader not because he was the strongest or most athletic, but because their customs, beliefs, and need for social cohesion encouraged them to follow a recognized leader. That leader was often someone with greater experience, knowledge, or wisdom. This was beneficial for survival in the wild.
 The traditions and rules were communicated via stoies under the night fire. As Yuval noha Harrari says They believed in the same myth which brought them together.3
 
-    Humans can cooperate flexibly in huge numbers because we believe in shared stories.
+> Humans can cooperate flexibly in huge numbers because we believe in shared stories.
 
 And along with the benefits, there were also serious problems like superstitions and unfair laws and such. Today, even though we are have no added advantages, are still facing the negative consequences of following a system blindly.
 
@@ -66,7 +66,7 @@ Looking at today's political circumstances of India, our leaders could learn a f
 
 So, to summarize:
 
-    if you want to have an emotional understanding of the Universe, seek God, if you want a truthful understanding, seek science.
+if you want to have an emotional understanding of the Universe, seek God, if you want a truthful understanding, seek science.
 
 <br>
 
@@ -76,9 +76,9 @@ Later amigo
 <div style="height: 3rem;"></div>
 <hr>
 
-Refer to Art, Literature and Meaning ↩︎
+[^art]: Refer to Art, Literature and Meaning.
 
-This got Einstein the Nobel Prize in Physics, Not the Theory of relativity. ↩︎
+[^einstein]: This got Einstein the Nobel Prize in Physics for explaining the photoelectric effect.
 
 These myths does not need to be just god. Nations, money, human rights, corporations, and laws are all shared myths that we all believe, in the sense that it doesn’t exist outside our collective imagination. Read Sapiens, A brief History of Humankind by Yuval Noah Harari. ↩︎
 
