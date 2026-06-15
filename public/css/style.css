@@ -204,4 +204,5 @@
 .post-content .footnotes hr {
     opacity: 0.5;
     padding-bottom: 2rem;
+    border-top: 1px solid var(--text-subtle);
 }
