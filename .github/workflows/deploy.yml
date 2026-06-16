@@ -36,6 +36,6 @@ jobs:
 
           git branch -M main
 
-          git remote add origin https://x-access-token:${{ secrets.BLOG_PUSH_SECRET }}@github.com/thesophile/blog.git
+          git remote add origin https://x-access-token:${{ secrets.BLOG_TOKEN }}@github.com/thesophile/blog.git
 
           git push -f origin main
