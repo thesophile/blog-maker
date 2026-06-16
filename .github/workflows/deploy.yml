@@ -1,0 +1,41 @@
+name: Deploy Blog
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: latest
+
+      - name: Build
+        run: hugo
+
+      - name: Deploy to blogs repo
+        run: |
+          cd public
+
+          git init
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+          git commit -m "Deploy" || exit 0
+
+          git branch -M main
+
+          git remote add origin https://x-access-token:${{ secrets.BLOG_PUSH_SECRET }}@github.com/thesophile/blog.git
+
+          git push -f origin main
