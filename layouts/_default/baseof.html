@@ -3,6 +3,26 @@
 
 <head>
     <meta charset="utf-8">
+    
+    <!-- To prevent flash of wrong theme -->
+    <script>
+    (function() {
+        const saved = localStorage.getItem('theme');
+        const osDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = saved || (osDark ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+    })();
+    </script>
+
+    <style>
+        html[data-theme="dark"] {
+            background: #1f1c1c;
+        }
+
+        html[data-theme="light"] {
+            background: #d8d8d8e7;
+        }
+    </style>
 
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     <link rel="stylesheet" href="{{ "css/navbar.css" | relURL }}">

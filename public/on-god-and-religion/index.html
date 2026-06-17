@@ -1,8 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script>
+<head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=35421&amp;path=blog/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
+    
+    
+    <script>
+    (function() {
+        const saved = localStorage.getItem('theme');
+        const osDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = saved || (osDark ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+    })();
+    </script>
+
+    <style>
+        html[data-theme="dark"] {
+            background: #1f1c1c;
+        }
+
+        html[data-theme="light"] {
+            background: #d8d8d8e7;
+        }
+    </style>
 
     <link rel="stylesheet" href="/blog/css/style.css">
     <link rel="stylesheet" href="/blog/css/navbar.css">
