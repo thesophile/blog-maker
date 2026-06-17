@@ -17,6 +17,11 @@
     {{ partial "navbar.html" . }}
 
     {{ block "main" . }}{{ end }}
+
+    <script src="{{ "js/navbar.js" | relURL }}"></script>
+    <script>
+        initNavbar()
+    </script>
 </body>
 
 </html>
