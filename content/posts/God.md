@@ -155,14 +155,42 @@ Use you Occam's razor, People!
 Not at all!  
 Physics is Beutiful.  
 Chemistry is Beutiful and complex.  
-Biology is Beutiful and even more complex.
+Biology is Beutiful and even more complex.  
+
 
 Biology is higher level function of chemistry and  
-chemistry is higher level function of Physics.
-Physics is higher level function of the simple fundamental laws of nature.
+chemistry is higher level function of Physics.  
+Physics is higher level function of the simple fundamental laws of nature.  
+
+<br>
 
 Complexity arises from simplicity.
-Complex things happen when a lot of simple things happen, for a long time.
+Complex things happen when a lot of simple things happen, for a long time.  
+Like in the Game of Life.
+It is a simulation designed by the mathematicion [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway).
+
+The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead.
+Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
+
+1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+2. Any live cell with two or three live neighbours lives on to the next generation.
+3. Any live cell with more than three live neighbours dies, as if by overpopulation.
+4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+
+There are only 4 simple rules for these cells to follow.
+
+<div style="height:700px; overflow:hidden;">
+    <iframe
+        src="https://conwaylife.com/"
+        style="
+            width:100%;
+            height:1200px;
+            border:none;
+            margin-top:-150px;
+        ">
+    </iframe>
+</div>
+
 
 
 
