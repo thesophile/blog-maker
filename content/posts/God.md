@@ -178,7 +178,20 @@ Every cell interacts with its eight neighbours, which are the cells that are hor
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 There are only 4 simple rules for these cells to follow.
+But.. It can produce surprising patterns for these rules...
+<br>
+<br>
 
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Gospers_glider_gun.gif#/media/File:Gospers_glider_gun.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" alt="Gospers glider gun.gif"></a>By <a href="//commons.wikimedia.org/wiki/User:LucasVB" title="User:LucasVB">Lucas Vieira</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=101736">Link</a></p>
+
+
+That is a "A single Gosper's glider gun creating gliders".
+Yes, there is a library of these patterns.
+
+Check out some examples below.
+
+<br>
 <div style="height:700px; overflow:hidden;">
     <iframe
         src="https://conwaylife.com/"
