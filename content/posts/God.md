@@ -38,6 +38,10 @@ There are very inntelligent flat earthers, antivaxxers, theists and so on. We ar
 
 Like religions and spirituality, the scientific method is another way to understand the universe, which is based on finding truth, not beliefs. here hearts are ment to be broken .It doesn’t care what you believe, what you think or anything. It just spits truth in your face. Take it our Leave it. One might be happier with religion- Cause ignorance is bliss. People want to be happy. not right.
 
+So, to summarize:
+
+if you want to have an emotional understanding of the Universe, seek God, if you want a truthful understanding, seek science.
+
 ## Religion
 The problem is when people mix them up. Like some try to find Science in religion - “Ganeshas head was transplanted with plastic surgery”. They are trying to find some truth in what they believe so that they can justify to themselves and others that what they believe is true. Today scientific knowledge is accepted as truth so they use it to “prove” that their religion is True. But the point they miss is that it doesn’t need to be true for you to believe in. Its better to believe that some magical force transplanted his head with an elephant than to seek a pseudoscientific explanation and making yourselves a fool. Our ancient brain is still trying to convince others (and in the process ourselves) our own beliefs.
 I hold no objection if someone believes in anything. One can believe that the earth is flat, all our experience is a dream, or that aliens exists. These do no harm as long as you know that your belief is not equal to truth. And if it is not truth, you dont have to make everyone believe it, I mean you can share your belief and others can accept it or critisize it. But it becomes harmful when you try to impose it on others or do real World actions based on this.
@@ -66,10 +70,27 @@ Under Atatürk, Turkey removed Islam as the state religion, replaced many religi
 
 Looking at today's political circumstances of India, our leaders could learn a few things from him.
 
-## Summary
-So, to summarize:
+## Counter arguments
 
-if you want to have an emotional understanding of the Universe, seek God, if you want a truthful understanding, seek science.
+My case here is not that "God doesn't exist for sure", but there is no sane, logical reason to believe his existence.
+The claim is unfalsifiable; we cannot prove it is not the case, like we can't prove we are not in a dream, or there is an undetectable, invisible apple on my head.  
+This excludes these statement from the domain of truth. On the contrary, a statement like "The moon is made of cheese" is more scientific because it can be proven to be false!  
+An unfalsifiable statement is not, on the other hand, not provable because we couldn't get any evidence for it like in a court case.
+It is unprovable because it doesn't interfere with reality in any meaningful way.  One could believe there is an undetectable apple on his head, but we cant prove that it doesn't exist, not because it exists but because even it is true theres no way to tell it is true.
+
+This is the case for the existence of God as in a being who created the universe with intent (as opposed to a natural phenomena).  
+One could say God created the universe.
+One could also say we are in a simluation run in a computer on the basement of an alien's house.  
+One could say we are a Boltzman brain.  
+One could say we are in a dream and the ultimate reality can only be comprehended after we wake up.  
+One could say it was always there and the nature of reality is such and such so that everything(or most of the things) can be explained from a few initial conditions.
+
+Given these situation, Logic says that we should use the concept of Occam's razor.
+It is the idea that presented with multiple explanations for the same thing, one should always choose the simple one- the one that requires the fewer assumptions, given both has the same explanatory power.  
+
+
+
+
 
 <br>
 
