@@ -70,7 +70,7 @@ Under Atatürk, Turkey removed Islam as the state religion, replaced many religi
 
 Looking at today's political circumstances of India, our leaders could learn a few things from him.
 
-## Counter arguments
+## Conclusion
 
 My case here is not that "God doesn't exist for sure", but there is no sane, logical reason to believe his existence.
 The claim is unfalsifiable; we cannot prove it is not the case, like we can't prove we are not in a dream, or there is an undetectable, invisible apple on my head.  
@@ -89,16 +89,16 @@ Given these situation, Logic says that we should use the concept of Occam's razo
 It is the idea that presented with multiple explanations for the same thing, one should always choose the simple one- the one that requires the fewer assumptions, given both has the same explanatory power.  
 But why must the simpler one be true?  
 because, if you are choosing the one with more assumptions, then you are making unnecessary assumptions for no reason at all.  
-For example, imagine you live with a roommate, when you come back home, the couch has moved a few inches.
+For example, imagine you live with a roommate, when you come back home, the couch has moved a few inches.  
 a. It can be your room mate  
 OR   
-b. it can be that your roommate brought a friend who also brought his girlfriend, they got drunk in the couch, they were talking, then they got into an argument and they left.
+b it can be that your roommate brought a friend who also brought his girlfriend, they got drunk in the couch, they were talking, then they got into an argument and they left.
 OR  
 c. It could be a wizard that waved his want and moved his couch.  
 I mean, any of this "could" be true.
-But all explain the same thing - movement of the couch.
-argument a requires the assumption that the room mate sat on the couch and moved it.
-argument b requires that  
+But all explain the same thing - movement of the couch.  
+Argument a requires the assumption that the room mate sat on the couch and moved it.  
+Argument b requires that  
 1. room mate bought a friend (un-necessary to explain movement)
 2. friend bought his girlfriend
 3. They got drunk
@@ -106,6 +106,7 @@ argument b requires that
 5. were talking
 5. Got into an argument
 6. left
+
 argument c requires that:
 1. Wizards exist which means magic exists and also a lot of assumptions regarding how it works, how we haven't detected it, etc.
 3. Wizard came to house
@@ -113,13 +114,9 @@ argument c requires that:
 
 With this situation which would you choose?
 
+## Counter arguments
 
-
-
-
-
-
-
+1. 
 
 <br>
 
