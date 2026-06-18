@@ -85,7 +85,7 @@ One could say we are a Boltzman brain.
 One could say we are in a dream and the ultimate reality can only be comprehended after we wake up.  
 One could say it was always there and the nature of reality is such and such so that everything(or most of the things) can be explained from a few initial conditions.
 
-Given these situation, Logic says that we should use the concept of Occam's razor.
+Given these situation, Logic says that we should use the concept of **Occam's razor**.
 It is the idea that presented with multiple explanations for the same thing, one should always choose the simple one- the one that requires the fewer assumptions, given both has the same explanatory power.  
 But why must the simpler one be true?  
 because, if you are choosing the one with more assumptions, then you are making unnecessary assumptions for no reason at all.  
@@ -122,10 +122,33 @@ Yes it is beutiful to some people, some time- thats subjective.
 But it's sure many things are complex and it **looks** like it is intentionally and intelligently created.
 
 Those are separate things and let's look at both.
+
 **Intention**: It looks like all of the things necessary for life are present, almost if someone facilitated life.
 But say that aloud, a few times if needed.  
 Do you get it?
 If there is a Life that looks around, it will always see conditions suitable for life.
+Because if there were no conditions suitiable for life, then there wouldn't be anyone looking around and saying:
+"oh no, there is no life conditions here, god is cruel". In fact Most - 99.99999...% of the universe is not suitable for life.
+and on the few planets that happen to have the right conditions, only one of them, as we know of yet, has life in it.  
+(Ofcourse, there might be other planets with life but that only supports what I am saying. )  
+This is called the weak **anthropic principle**. The strong version applies that to the entire universe.  
+This defeats the fine-tuning argument.
+> The constants of the universe are precisely so that it can allow formation of galaxies, stars, planets and life.  
+> if it was off by a small percentage, life couldn't be possible.
+
+*Clever argument - as I was talking about earlier- people use their intelligence to support what they already belief.
+Challenging other's belief is easy, but challenging your own is hella difficult.*
+
+
+This assumes that there is only one universe or the physical constants are same everywhere across infinite[infinite] space and time.  
+I find it amusing that for some people, comprehending this is difficult than believing multiple worlds like heaven and hell exists.  
+Just Multiple universe **vs** Multiple universe with specific qualities that doesn't follow logic and described with no evidence or explanation.
+*Very hard to choose*!  
+Use you Occam's razor, People!
+
+**Intelligence**: 
+
+
 
 
 <br>
