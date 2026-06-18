@@ -148,6 +148,9 @@ Use you Occam's razor, People!
 
 **Intelligence**: 
 
+> But look at the world, look at biology, how complex biochemical processes take place. trillions of cells work to create the masterpiece of life.  
+> The human eye works better than any expensive camera.  
+> Are you saying all of these came out of random chaos?
 
 
 
