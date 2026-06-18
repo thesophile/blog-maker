@@ -116,7 +116,17 @@ With this situation which would you choose?
 
 ## Counter arguments
 
-1. 
+**1. If there is no intelligent being, why does things look like they are created- beutiful and complex?**
+
+Yes it is beutiful to some people, some time- thats subjective.  
+But it's sure many things are complex and it **looks** like it is intentionally and intelligently created.
+
+Those are separate things and let's look at both.
+**Intention**: It looks like all of the things necessary for life are present, almost if someone facilitated life.
+But say that aloud, a few times if needed.  
+Do you get it?
+If there is a Life that looks around, it will always see conditions suitable for life.
+
 
 <br>
 
