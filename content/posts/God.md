@@ -152,6 +152,18 @@ Use you Occam's razor, People!
 > The human eye works better than any expensive camera.  
 > Are you saying all of these came out of random chaos?
 
+Not at all!  
+Physics is Beutiful.  
+Chemistry is Beutiful and complex.  
+Biology is Beutiful and even more complex.
+
+Biology is higher level function of chemistry and  
+chemistry is higher level function of Physics.
+Physics is higher level function of the simple fundamental laws of nature.
+
+Complexity arises from simplicity.
+Complex things happen when a lot of simple things happen, for a long time.
+
 
 
 <br>
