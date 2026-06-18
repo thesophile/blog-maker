@@ -87,6 +87,35 @@ One could say it was always there and the nature of reality is such and such so 
 
 Given these situation, Logic says that we should use the concept of Occam's razor.
 It is the idea that presented with multiple explanations for the same thing, one should always choose the simple one- the one that requires the fewer assumptions, given both has the same explanatory power.  
+But why must the simpler one be true?  
+because, if you are choosing the one with more assumptions, then you are making unnecessary assumptions for no reason at all.  
+For example, imagine you live with a roommate, when you come back home, the couch has moved a few inches.
+a. It can be your room mate  
+OR   
+b. it can be that your roommate brought a friend who also brought his girlfriend, they got drunk in the couch, they were talking, then they got into an argument and they left.
+OR  
+c. It could be a wizard that waved his want and moved his couch.  
+I mean, any of this "could" be true.
+But all explain the same thing - movement of the couch.
+argument a requires the assumption that the room mate sat on the couch and moved it.
+argument b requires that  
+1. room mate bought a friend (un-necessary to explain movement)
+2. friend bought his girlfriend
+3. They got drunk
+4. Got drunk in the couch
+5. were talking
+5. Got into an argument
+6. left
+argument c requires that:
+1. Wizards exist which means magic exists and also a lot of assumptions regarding how it works, how we haven't detected it, etc.
+3. Wizard came to house
+4. wizard moved the couch with magic.
+
+With this situation which would you choose?
+
+
+
+
 
 
 
