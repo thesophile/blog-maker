@@ -211,7 +211,39 @@ Until, you find something interesting... Maybe something that moves to the right
 maybe self-replication,  
 maybe cells clustering together and acting in unison (*Sir Robin*),
 
-The thing is we do not instruct them to do any of these.
+<br>
+
+The thing is, we did not instruct them to do any of these. I mean, we kind of did - unknowingly - when we set the initial conditions.
+But we don't **need to**, if we are given enough attempts and time.  
+Any random choas on the screen could make something beautiful, complex and functioning, given only four laws and a random arrangement of cells.  
+No intention or intelligence required.  
+<br>
+Kind of like the universe right? four simple laws and a set of initial conditions...
+Trillions of years, and seemingly infinite space and arrangement of matter.  
+So vast and long, our human brains Can Not comprehend the scale.  
+Anything that **can** happen, **will** happen.
+
+Does that mean, when we see a pattern, that it is necessarily made without intention or intelligence? Of cource not!
+It could be, but it also doesnt have to be.  
+So we use the Occam's razor.
+Either of this could be used to perfectly explain the existence of Earth and Life:
+1. Four simple rule and random[^random] initaial conditions. Complex things emerged from simpler things.
+    **Given a complex universe, either it always existed or was created from simpler things.**
+2. God an already complex, intelligent being, intentionally created the universe for reasons that we cannot yet comprehend.  
+    This assumes that **God -an already complex being- either already existed or was created from simpler things.**  
+
+Here, God is just a **middleman**,
+Either complex things can already exist OR will emerge from simpler things.  
+If Complex things can alreasy exist,  
+then Universe can already exist OR God can exist and create Universe.  
+If they have to emerge from simpler things,  
+Then either Universe emerged from simpler things OR God emerged from simpler things and created the Universe.
+
+<br>
+
+Surely you must have noticed the 
+
+
 
 
 
