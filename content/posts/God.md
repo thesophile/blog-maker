@@ -116,6 +116,7 @@ With this situation which would you choose?
 
 ## Counter arguments
 
+### Complexity as proof
 **1. If there is no intelligent being, why does things look like they are created- beutiful and complex?**
 
 Yes it is beutiful to some people, some time- thats subjective.  
@@ -241,7 +242,15 @@ Then either Universe emerged from simpler things OR God emerged from simpler thi
 
 <br>
 
-Surely you must have noticed the 
+Surely you must have noticed the problem here. Adding God, adds an extra unnecessary assumption to explain the same thing.  
+This extra assumption comes from bias people already have that God must exist.  
+If we get rid of it, the logic says "Sure, if there was God, then Universe can also work the same, given that I put some extra assumption".  
+These assumptions are added Not because they are needed, but because adding that would validate my pre-existing beliefs so that I can sleep peacefully at night.
+
+
+### Burden of possibility
+
+
 
 
 
