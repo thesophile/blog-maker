@@ -1,6 +1,6 @@
 +++
 date = '2026-06-14T18:12:37+05:30'
-draft = true
+draft = false
 title = 'On God and Religion'
 +++
 
@@ -250,7 +250,10 @@ These assumptions are added Not because they are needed, but because adding that
 
 ### Burden of possibility
 
+**2. What if you are wrong and God does exist? Believing does no harm but not believing may result in eternal suffering.**
 
+This is the stance philosophers like [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) argued for.
+It becomes a cost-benefit analysis. Loss from believing is small, Loss from not believing  
 
 
 
