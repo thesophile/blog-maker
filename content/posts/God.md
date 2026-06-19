@@ -183,14 +183,23 @@ But.. It can produce surprising patterns for these rules...
 <br>
 <br>
 
+<div style="display:flex; gap:20px; align-items:flex-start;">
 
+<div style="flex:0 0 250px;">
 <p><a href="https://commons.wikimedia.org/wiki/File:Gospers_glider_gun.gif#/media/File:Gospers_glider_gun.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" alt="Gospers glider gun.gif"></a></p>
-
-
-That is *"A single Gosper's glider gun creating gliders"*.
+</div>
+<div>
+<p>This is "A single Gosper's glider gun creating gliders".
 Yes, there is a library of these patterns.
+</p>
+<br>
+<p>Check out some examples below:</p>
 
-Check out some examples below.
+</div>
+
+</div>
+
+
 
 <br>
 <div style="height:700px; overflow:hidden;">
