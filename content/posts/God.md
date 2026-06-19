@@ -183,10 +183,10 @@ But.. It can produce surprising patterns for these rules...
 <br>
 
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Gospers_glider_gun.gif#/media/File:Gospers_glider_gun.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" alt="Gospers glider gun.gif"></a>By <a href="//commons.wikimedia.org/wiki/User:LucasVB" title="User:LucasVB">Lucas Vieira</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=101736">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Gospers_glider_gun.gif#/media/File:Gospers_glider_gun.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" alt="Gospers glider gun.gif"></a></p>
 
 
-That is a "A single Gosper's glider gun creating gliders".
+That is *"A single Gosper's glider gun creating gliders"*.
 Yes, there is a library of these patterns.
 
 Check out some examples below.
@@ -203,6 +203,15 @@ Check out some examples below.
         ">
     </iframe>
 </div>
+
+Choose any pattern from the drop down above (These are not the only ones, Visit [this library](https://conwaylife.appspot.com/library/) of thousands of interesting conway patterns) and click the play icon below.  
+Or select the draw icon (F2) and draw something yourselves! 
+Maybe nothing the first time, but keep darwing, maybe different position, maybe clear and draw again.  
+Until, you find something interesting... Maybe something that moves to the right, rotation, different kinds of motion,  
+maybe self-replication,  
+maybe cells clustering together and acting in unison (*Sir Robin*),
+
+The thing is we do not instruct them to do any of these.
 
 
 
