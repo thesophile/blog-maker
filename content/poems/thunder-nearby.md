@@ -1,6 +1,6 @@
 +++
 date = '2026-06-24T14:51:26+05:30'
-draft = true
+draft = false
 title = 'Thunder Nearby'
 tags = ["poem"]
 +++

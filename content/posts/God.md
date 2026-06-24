@@ -2,6 +2,7 @@
 date = '2026-06-14T18:12:37+05:30'
 draft = false
 title = 'On God and Religion'
+tags = ["article"]
 +++
 
 ## introduction

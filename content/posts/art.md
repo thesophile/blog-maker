@@ -1,8 +1,9 @@
----
-title: "Art, Literature and Meaning "
-date: 2026-06-07T16:13:39+05:30
-draft: false
----
++++
+title = "Art, Literature and Meaning "
+date = 2026-06-07T16:13:39+05:30
+draft = false
+tags= ["article"]
++++
 
 What is poetry?
 When I was little, I thought it was just a little dance with pretty poetic words - Similies, Metaphors, beutiful descriptions...
