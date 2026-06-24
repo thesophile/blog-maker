@@ -23,9 +23,21 @@
                     {{ .Date.Format "Jan 2, 2006" }}
                 </p>
 
+                
+
                 <p class="blog-summary">
                     {{ truncate 180 .Summary }}
                 </p>
+
+                <br>
+
+                <div class="tags">
+                    {{ range .Params.tags }}
+                    <a class="tag" href="/tags/{{ . | urlize }}/">
+                        #{{ . }}
+                    </a>
+                    {{ end }}
+                </div>
 
             </article>
         </a>

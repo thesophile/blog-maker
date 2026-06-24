@@ -6,6 +6,8 @@ title = "Blogs of Abhinav Babu"
 [permalinks]
 posts = "/:slug/"
 
+[taxonomies]
+tag = "tags"
 
 [markup]
   [markup.goldmark]
