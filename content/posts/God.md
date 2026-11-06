@@ -263,9 +263,90 @@ These assumptions are added Not because they are needed, but because adding that
 **2. What if you are wrong and God does exist? Believing does no harm but not believing may result in eternal suffering.**
 
 This is the stance philosophers like [Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal) argued for.
-It becomes a cost-benefit analysis. Loss from believing is small, Loss from not believing  
+It becomes a cost-benefit analysis. Loss from believing is small, Loss from not believing can be infinitely large - like eternal torture at hell or as rebirth.
+But that assumes a lot of things that arent reasonable.
+Even if heaven or hell exists, who says you get to heaven for believing in a religion you were born in to?
+There are several religions that say heaven is exclusive to people believing in their religion and everyone else goes straight to hell. (_salvation exclusivism_)
+By that logic you should believe in all such religions. But wait, most of these also say you must only believe in their religion. (_religious exclusivism_.)
+
+Hence Whatever combination of religions you believe in, There is always the possibility you are believing in the wrong religion and could go to hell. Considering the number of religions we have, that chance is pretty high if you assume all relgion are about the same likely as to be true and provide heaven/hell.
+
+But most people think _Their_ relgion is true for some magical reason.
+Most people dont realize there's nothing special about their religion,
+93.4% of Christians were christians by birth.
+Nobody chose anything, your religion is just random chance.
+If you were born in a different family or country you might be in a different religion- then
+you would still think that religion is the truest one.
+What about people who were not born to any religion?
+There are exceptions to this case like converted religion, and they have to choose the true relgion.
+What I am trying to say is you cant blindly say that the religion you were born into is not necessarily the true one - you have to choose it right?
+But on what grounds do we choose, how do we know whats the truth?
+1. I am special so the religion I was born in to is automatically true.
+2. Maybe a miracle you have heard or experienced?
+3. Maybe your prayers that went right?
+4. Maybe the one you are most comfortable with?
+It must be the last answer if you are beleiving for comfort, but here we are trying to find the correct religion to get in to Heaven!
+
+Most people go either 1,2,3 or their combination but a bit of skepticism helps you find why thats wrong.
+
+So in summary,
+If there was a heaven and hell and I could be punished for not believing in an arbitrary religion,
+I mean what could I do? I couldnt do anything.
+The punisher havent told me or given any information in any believable way that says if you do/don't do this you will be punished. So Even if the punisher exists, I cant do anything here.
+Such a system/god, who will punish you without any reason, I think it already decided to punish us.
+I mean if they punished for doing bad things, its understandable.
+But punishing for not believing in something you have no reason to believe?
+
+Either that is evil or just inaccurate.
+but if it is evil, but then they say the god is kind, then it must be inaccurate too.
+
+I know what the theists will be saying- Just believe even if you have no reason to.
+
+First of all, I cant just decide to believe in something to get some benefit.
+Belief happens from a lot of external factors, so if God wanted me to believe him, may I would be a believer by now, dont you think?
+Besides, who knows if the real system punishes people if they believe, then I might be better off not believing - incase we are taking not being tortured as a motivational feature.
+
+Also, if some religions are true, then you get rewarded for selfless acts without expecting any reward.
+
+Imagine two people:
+- Person A: Helps a stranger because they genuinely care about them.
+- Person B: Helps a stranger because they believe God will reward them in heaven.
+
+I don't personally think it is wrong to do something for a reward. 
+But grow up, you dont need to be motivated by candies to be a good human.
 
 
+### The Good Man Argument
+
+But wait, if there is no hell or heaven, why be moral, why not go on a killing spree?
+I mean if that fear is what prevents you from killing random dudes, we have bigger problems here.
+The thing is you dont have to be religious to be moral.
+Humans can be kind and loving and help each other just because.
+It can heavily be influenced by upbringing; when their parents are kind and loving, the children automatically learn that too. Morality is half learned and half instinct.
+If needed, we as a society can now provide ethics classes and rehabilitation.
+There is no need for religion in that anymore.
+
+But religions can make you a better person?
+True, It Can, but it also can make you a worse person - homophobic, racist, sexist, casteist etc.
+It can make Budhas or Hitlers.
+
+If your religion asked you to kill babies, would you still kill them?
+If yes, that religion is not making you a better person.
+If no, then that means you take control and responsibility for your own morals,
+in which case also, that religion did not make you a better person.
+You see what I am saying?
+
+Religion can at best be only be suggestions to what you should or should not do.
+else if you do anything blindly, you will kill babies and will rationlize it too.
+But if these are some suggestions, anyone can give that - your parents, friends, colleages, random people on the street- or better yet an ethics class. The difference is that all of these are questioned.
+You will ask- "But who said that tomatoes are fruits?"-"How do you know?","Wheres your source?"
+But with religion you do if some preist says something, you just accept it.
+Maybe you question, then they may qoute a famous sacred religious book.
+Like your grandma saying "I saw it on facebook".
+How do you know if a religious book is even real or was it made up. Probably its not all completely made up,
+but these had been for many years and translated many times, the contents would have completely changed their meaning.
+At this point, its all madeup anyway now, even if it started off real.
+So are you following bible or the guy Robert who translated the bible?
 
 
 
